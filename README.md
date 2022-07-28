@@ -1,6 +1,7 @@
 <h2> Hola, Soy Cristian Camilo Pineda! <img src="https://media.giphy.com/media/fYRw9gQA4Yp8rjKvaD/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>Ingeniero de Sistemas de: <a href="https://www.uceva.edu.co/"><img src="https://www.uceva.edu.co/wp-content/uploads/2022/03/NuevoLogoWeb.jpg" height="50"/> </a><img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="60"></p>
+
+<p><em>Ingeniero de Sistemas de: <p><a href="https://www.uceva.edu.co/"><img src="https://www.uceva.edu.co/wp-content/uploads/2022/03/NuevoLogoWeb.jpg" height="50"/> </a><img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="60"></p>
 
 
 <p align="left"> <p>Contacto:</p> 
