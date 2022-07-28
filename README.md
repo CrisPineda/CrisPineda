@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hola, Soy Cristian Camilo Pineda! <img src="https://media.giphy.com/media/fYRw9gQA4Yp8rjKvaD/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<p><em>Ingeniero de Sistemas de: <a href="https://www.uceva.edu.co/"><img src="https://www.uceva.edu.co/wp-content/uploads/2022/03/NuevoLogoWeb.jpg" height="50"/> </a><img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="60"></p>
 
-<!--
-**CrisPineda/CrisPineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <p>Contacto:</p> 
+<a href="https://www.linkedin.com/in/cristian-camilo-pineda-alarcon-7b8225188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CristianPineda" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1></h1>
+
+
+### <img src="https://media.giphy.com/media/bmbtjUZvczoka8zXaV/giphy-downsized-large.gif" width="50">   Sobre Mi...  
+
+```C#
+string Cristian = {
+  code: [ "C#" , "Java" , "HTML ", "CSS" , "C" , "Python" , "Java" ],
+  challenge: "Quiero desarrollar un Videojuego AAA"
+}
+```
+
+<img src="https://media.giphy.com/media/j3dFQm1C6ugC8wqeJC/giphy.gif" width="60"> <em><b>Me gusta aprender nuevas cosas </b> sin importar el desafio a cumplir, <b>mi gran sueño es poder expresar mi arte atravez de los videojuegos</b> :D</em>
+
+---
+
+
+
