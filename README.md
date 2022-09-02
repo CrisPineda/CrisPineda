@@ -7,7 +7,7 @@
 <p align="left"> <p>Contacto:</p> 
 <a href="https://www.linkedin.com/in/cristian-camilo-pineda-alarcon-7b8225188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CristianPineda" height="30" width="40" /></a>
 
-<h1></h1>
+<h1>Mis proyectos: <a href="https://haruhikoruru.itch.io/"><img src="https://media.giphy.com/media/LOtwcbjWL6Pwr2qO8t/giphy.gif" width="50"></a></h1>  
 
 
 ### <img src="https://media.giphy.com/media/bmbtjUZvczoka8zXaV/giphy-downsized-large.gif" width="50">   Sobre Mi...  
